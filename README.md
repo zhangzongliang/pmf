@@ -1,5 +1,5 @@
 # pmf
-Implementation and discussion of the procedural model fitting method described in the paper: Robust procedural model fitting with a new geometric similarity estimator. 
+Implementation and discussion of the procedural model fitting method described in our paper: Robust procedural model fitting with a new geometric similarity estimator. 
 
 
 A useful tip for implementing:
