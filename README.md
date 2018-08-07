@@ -1,5 +1,5 @@
 # pmf
-Implementation and discussion of the procedural model fitting method described in our paper: Robust procedural model fitting with a new geometric similarity estimator. 
+Implementation (MATLAB code) and discussion of the procedural model fitting method described in our paper: Robust procedural model fitting with a new geometric similarity estimator. 
 
 
 A useful tip for implementing:
@@ -19,6 +19,8 @@ BibTex of the paper:
   
   year={2018},
   
-  publisher={Elsevier}
+  publisher={Elsevier},
+  
+  doi={https://doi.org/10.1016/j.patcog.2018.07.027}
   
 }
