@@ -24,3 +24,6 @@ BibTex of the paper:
   doi={https://doi.org/10.1016/j.patcog.2018.07.027}
   
 }
+
+
+My e-mail address is: zhangzongliang@stu.xmu.edu.cn
