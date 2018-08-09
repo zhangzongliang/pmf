@@ -21,7 +21,7 @@ BibTex of the paper:
   
   publisher={Elsevier},
   
-  doi={https://doi.org/10.1016/j.patcog.2018.07.027 }
+  doi={ https://doi.org/10.1016/j.patcog.2018.07.027 }
   
 }
 
