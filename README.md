@@ -8,7 +8,7 @@ Please cite the following paper:
 Zhang, Zongliang and Li, Jonathan and Guo, Yulan and Li, Xin and Lin, Yangbin and Xiao, Guobao and Wang, Cheng. Robust procedural model fitting with a new geometric similarity estimator. _Pattern Recognition_ (2018). https://doi.org/10.1016/j.patcog.2018.07.027
 
 ### Using the code
-The code has been tested in MATLAB R2018a, and could aslo work in MATLAB R2016 or R2017. To run the code, in the main PMF directory type one of these three commands:
+The code has been tested in MATLAB R2018a, and could aslo work in MATLAB R2016 or R2017. To run the code, in the main PMF directory type one of the following three commands:
 ```matlab
 fit_cylinder;
 
@@ -19,7 +19,7 @@ fit_building;
 
 ### Computing resources
 
-Please be patient! Running the code on a single CPU is quite slow. Taking a Intel(R) Core(TM) i5-3470 CPU @3.20GHz for example, it would consume tens of minutes, a couple of hours, and tens of hours to fit_cylinder, fit_building, and fit_character, respectively. Fortunatly, the code can be naturely run in parallel to achieve few-shot character recognition.
+Please be patient! Running the code on a single CPU is quite slow. Taking a Intel(R) Core(TM) i5-3470 CPU @3.20GHz for example, it would consume tens of minutes, a couple of hours, and tens of hours to _fit_cylinder_, fit_building, and fit_character, respectively. Fortunatly, the code can be naturally run in parallel to achieve few-shot character recognition.
 
 
 ### A practical tip for implementing
