@@ -8,7 +8,7 @@ Please cite the following paper:
 Zhang, Zongliang and Li, Jonathan and Guo, Yulan and Li, Xin and Lin, Yangbin and Xiao, Guobao and Wang, Cheng. Robust procedural model fitting with a new geometric similarity estimator. _Pattern Recognition_ (2018). https://doi.org/10.1016/j.patcog.2018.07.027
 
 ### Using the code
-The code has been tested in MATLAB R2018a, and could aslo work in MATLAB R2016 or R2017. To run the code, first unzip the file "data.zip", and then in the main PMF directory type one of the following three commands:
+The code has been tested in MATLAB R2018a, and could aslo work in MATLAB R2016 or R2017. To run the code, first unzip the file _data.zip_, and then in the main PMF directory type one of the following three commands:
 ```matlab
 fit_cylinder;
 

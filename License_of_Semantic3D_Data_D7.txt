@@ -1,0 +1,7 @@
+License_of_Semantic3D_Data_D7 (D7.ply)
+
+SEMANTIC3D.NET licensing
+
+Copyright (c) 2017 Timo Hackel and N. Savinov and L. Ladicky and Jan D. Wegner and K. Schindler and M. Pollefeys, http://semantic3d.net
+
+The SEMANTIC3D.NET datasets are published under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License. This means that you must attribute the work in the manner specified by the SEMANTIC3D.NET authors, you may not use this work for commercial purposes and if you alter, transform, or build upon this work, you may distribute the resulting work only under the same license. If you are interested in commercial usage you can contact the SEMANTIC3D.NET authors for further options.
