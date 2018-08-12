@@ -1,3 +1,13 @@
+# Procedural model fitting (PMF) method
+
+Implementation (MATLAB source code) and discussion of the procedural model fitting (PMF) method described in our paper: Robust procedural model fitting with a new geometric similarity estimator.
+
+### Citing this code
+Please cite the following paper:
+
+
+Zhang, Zongliang and Li, Jonathan and Guo, Yulan and Li, Xin and Lin, Yangbin and Xiao, Guobao and Wang, Cheng. Robust procedural model fitting with a new geometric similarity estimator. _Pattern Recognition_ (2018), https://doi.org/10.1016/j.patcog.2018.07.027
+
 # pmf
 Implementation (MATLAB source code) and discussion of the procedural model fitting method described in our paper: Robust procedural model fitting with a new geometric similarity estimator. 
 
