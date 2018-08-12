@@ -27,7 +27,10 @@ Please be patient! Running the code on a single CPU is quite slow. Taking a Inte
 Please make sure that at least two points can be sampled from the model. In other words, taking 1-dimensional case as example, every model defined by the input probabilistic program should at least have a length of 2*\delta_{min}. The reason is as follows. The proposed method requires the model to be a continuous point set. If only one point can be sampled from the model, then the model is practically not qualified as a continuous point set.
 
 
-### Contact
+### Contacts
 E-mail address of the first author (Zongliang Zhang) is: zhangzongliang@stu.xmu.edu.cn
 
 E-mail address of the corresponding author (Jonathan Li) is: junli@xmu.edu.cn
+
+### Licenses
+The main code of PMF is under MIT license. PMF employs the code of the cuckoo search algorithm and the code of the Bayesian program learning model, which have their own licenses (can be found in the involved folders). PMF also employs four datasets including MNIST, noisy MNIST, Semantic3D, and SCSC. These datasets have their own licenses also (can be found in the involved folders).
