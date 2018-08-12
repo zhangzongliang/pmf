@@ -19,7 +19,7 @@ fit_building;
 
 ### Computing resources
 
-Please be patient! Running the code on a single CPU is quite slow. Taking a Intel(R) Core(TM) i5-3470 CPU @3.20GHz for example, it would consume tens of minutes, a couple of hours, and tens of hours to _fit_cylinder_, fit_building, and fit_character, respectively. Fortunatly, the code can be naturally run in parallel to achieve few-shot character recognition.
+Please be patient! Running the code on a single CPU is quite slow. Taking a Intel(R) Core(TM) i5-3470 CPU @3.20GHz for example, it would consume tens of minutes, a couple of hours, and tens of hours to _fit_cylinder_, _fit_building_, and _fit_character_, respectively. Fortunatly, the code can be naturally run in parallel to achieve few-shot character recognition.
 
 
 ### A practical tip for implementing
@@ -29,4 +29,5 @@ Please make sure that at least two points can be sampled from the model. In othe
 
 ### Contact
 E-mail address of the first author (Zongliang Zhang) is: zhangzongliang@stu.xmu.edu.cn
+
 E-mail address of the corresponding author (Jonathan Li) is: junli@xmu.edu.cn
