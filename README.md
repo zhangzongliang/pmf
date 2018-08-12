@@ -10,10 +10,8 @@ Zhang, Zongliang and Li, Jonathan and Guo, Yulan and Li, Xin and Lin, Yangbin an
 ### Using the code
 The code has been tested in MATLAB R2018a, and could aslo work in MATLAB R2016 or R2017. To run the code, first unzip the file "data.zip", and then in the main PMF directory type one of the following three commands:
 ```matlab
-fit_cylinder;
-
-fit_character;
-
+fit_cylinder;  
+fit_character;  
 fit_building;
 ```
 
