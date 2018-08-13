@@ -1,6 +1,7 @@
-Change made by Zongliang Zhang (zhangzongliang@stu.xmu.edu.cn) in October 12, 2018
+Changes made by Zongliang Zhang (zhangzongliang@stu.xmu.edu.cn) in October 12, 2018
 
-In the file "mvnormpdfln.m", the lines 90 and 91 have been changed from  
+The orgiginal lightspeed files that are not employed by this modified Bayesian program learning (BPL) model have been removed.  
+And in the file "mvnormpdfln.m", the lines 90 and 91 have been changed from  
     dx = solve_tril(S',dx);  
     %dx = S'\dx;  
 to  
