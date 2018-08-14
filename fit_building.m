@@ -12,6 +12,7 @@ args.data=cloud.Location;
 args.timeTol=3600*20;
 args.model='building';
 args.resolution=0.2*0.3;
+args.populationSize=10;
 args
 
 v=GeoModeler(args);
