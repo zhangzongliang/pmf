@@ -40,8 +40,8 @@ end
 if isfield(args,'populationSize')
     v.mPopulationSize=args.populationSize;
 else
-    v.mPopulationSize=10;
-    %v.mPopulationSize=25;
+    %v.mPopulationSize=10;
+    v.mPopulationSize=25;
 end
 
 if isfield(args,'fittingMethod')
