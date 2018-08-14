@@ -7,7 +7,6 @@ Fujian Key Laboratory of Sensing and Computing for Smart Cities (SCSC), Xiamen K
 Laboratory of Geospatial Sensing and Computing, School of Information Science and
 Engineering, Xiamen University, Xiamen, Fujian 361005, China
 
-
 This SCSC Data are published under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License. 
 This means that you must attribute the data in the manner specified by the SCSC Data authors, 
 you may not use this data for commercial purposes and if you alter, transform, or build upon this data, 
