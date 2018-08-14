@@ -1,7 +1,7 @@
 classdef Modeler
     properties (Access=public)
         mIterationTol=10000;
-        mPopulationSize=10;
+        mPopulationSize=25;
         mEarlyRejection=true;
         mDividingBase=10;
         mControl=15;
