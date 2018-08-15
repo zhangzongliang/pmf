@@ -8,7 +8,7 @@ addpath(genpath(pmfRoot));
 args=[];
 args.model='cylinder';
 args.numFittings=1;
-args.data_resolution=0.2;
+args.data_resolution=0.6; % 0.6 is for quick evaluation. It is 0.2 in the paper.
 args.resolution=args.data_resolution*0.3;
 args.timeTol=3600*3; % in seconds
 args.imperfection='real'; % can be: real, perfect, or gross
