@@ -126,7 +126,7 @@ classdef Modeler
             v.mTopLevelReached=true;
             v.mSumDists=v.mSumDists+sum(dists);
             emd=v.mSumDists/v.mSumWeights;
-            v.mScore=v.mMeasure/(emd^v.mLambda+v.mEpsilon);
+            v.mScore=v.mMeasure/(emd^v.mLambda);
             score=v.mScore;
         end
         
