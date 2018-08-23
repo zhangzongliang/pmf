@@ -8,7 +8,7 @@ Please cite the following paper:
 Zhang, Zongliang and Li, Jonathan and Guo, Yulan and Li, Xin and Lin, Yangbin and Xiao, Guobao and Wang, Cheng. Robust procedural model fitting with a new geometric similarity estimator. _Pattern Recognition_ 85 (2019) 120-131. 
 
 ### Downloading the paper
-Preprint version: https://zhangzongliang.github.io/pdf/pmf.pdf
+Preprint version: https://zhangzongliang.github.io/pdf/pmf.pdf  
 Final version: https://doi.org/10.1016/j.patcog.2018.07.027
 
 ### Using the code
