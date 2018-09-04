@@ -25,4 +25,4 @@ if 7~=exist(resultFolder,'dir')
 end
 resultFileName=[resultFolder,'/',args.logTime,'.mat'];
 save(resultFileName);
-fprintf(['saved to ',resultFileName,'\n']);
+disp(['saved to ',resultFileName]);
