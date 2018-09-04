@@ -51,4 +51,4 @@ for i=1:args.numFittings
 end
 
 save(args.resultFileName);
-fprintf(['\nsaved to ',args.resultFileName,'\n']);
+disp(['saved to ',args.resultFileName]);
