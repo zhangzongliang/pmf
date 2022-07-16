@@ -30,7 +30,7 @@ Please make sure that at least two points can be sampled from the model. In othe
 
 
 ### Contacts
-E-mail address of the first author (Mr. Zongliang Zhang) is: zhangzongliang@stu.xmu.edu.cn  
+E-mail address of the first author (Mr. Zongliang Zhang) is: zzl@jmu.edu.cn  
 E-mail address of the corresponding author (Prof. Jonathan Li) is: junli@xmu.edu.cn
 
 ### Licenses
